@@ -1,0 +1,1 @@
+# galgamehubinfo.github.io
