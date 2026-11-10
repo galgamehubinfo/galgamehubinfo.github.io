@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://galgamehubinfo.github.io/sitemap.xml
